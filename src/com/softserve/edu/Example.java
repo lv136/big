@@ -8,4 +8,5 @@ public class Example {
         Object obj=new Object();
         ((Label)obj).check();
     }
+//
 }
