@@ -7,5 +7,6 @@ public class Appl {
             System.out.println("Element:" + s);
         }
     }
-//++++++++++++++++++
+//+++++++*****
+//-----
 }
